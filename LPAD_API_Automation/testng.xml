@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="QA_LPAD">
+
+<test name="LPAD API Regression">
+ <classes>
+
+	<class name="DAC.API_Automation.LPAD_API_Test" /> 
+
+</classes>
+</test>
+
+</suite>
